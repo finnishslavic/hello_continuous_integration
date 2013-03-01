@@ -12,9 +12,22 @@
 bin/
 gen/
 
+#IDE related stuff
+.settings/
+.metadata/
+
 # Local configuration file (sdk path, etc)
 local.properties
 
-# Eclipse project files
-.classpath
-.project
+# IntelliJ Idea
+*.idea
+.idea/
+*.iml
+out/
+classes/
+
+# Test temp
+/tmp
+
+# MacOS crap
+*.DS_Store
