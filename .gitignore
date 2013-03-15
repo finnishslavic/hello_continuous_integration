@@ -27,6 +27,7 @@ out/
 classes/
 
 # Test temp
+/target
 /tmp
 
 # MacOS crap
